@@ -4,4 +4,4 @@
 
 Enviar mensajes desde la consola para lograr que el puma logre alcanzar al churrasco
 
-![](pantallapuma.jpg)
+![](pantallapuma.png)
